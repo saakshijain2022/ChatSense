@@ -6,6 +6,8 @@ Completed by April
 
 TechStack- Python,pandas,numpy,NLP,StreamLit,matplotlib,seaborn
 
+Performs sentiment analysis by utilizing natural language processing (NLP) to extract emotions from text.
+
 It is integrated with StreamLit web browser GUI.
 
 Analyzes the sentiment of WhatsApp chats using machine learning techniques.
